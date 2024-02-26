@@ -3,6 +3,7 @@ Functionality has been removed
 <<<<<<< HEAD
 =======
 This file records the changes made to this project.
-I can also make changes in github and pull it to my local copy of the repsitory. 
+I can also make changes in github and pull it to my local copy of the repsitory.
+This change is being made by local repo 2
 >>>>>>> ef54051ea69fd1140b84adbdac01bb297624ee0c
 
