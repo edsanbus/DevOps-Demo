@@ -1,3 +1,5 @@
 Added new functionality for downloading
 Functionality has been removed
 This file records the changes made to this project.
+I can also make changes in github and pull it to my local copy of the repsitory. 
+
